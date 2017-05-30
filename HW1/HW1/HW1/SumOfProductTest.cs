@@ -1,4 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System;
 using System.Linq;
@@ -32,16 +32,16 @@ namespace HW1
 
     }
 
-    public class Items : IProduct
+    public class Items
     {
         public int Cost { get; set; }
         public int Id { get; set; }
         public int Revenue { get; set; }
         public int SellPrice { get; set; }
 
-        public List<IProduct> GetList()
+        public List<Items> GetList()
         {
-            return new List<IProduct>()
+            return new List<Items>()
             {
                 new Items() { Id = 1, Cost = 1, Revenue = 11, SellPrice = 21 },
                 new Items() { Id = 2, Cost = 2, Revenue = 12, SellPrice = 22 },
@@ -58,18 +58,9 @@ namespace HW1
         }
     }
 
-    public interface IProduct
-    {
-        int Id { get; set; }
-        int Cost { get; set; }
-        int Revenue { get; set; }
-        int SellPrice { get; set; }
-        List<IProduct> GetList();
-    }
-
     public class Calculator
     {
-        public IEnumerable<int> SumByCost(IEnumerable<IProduct> orders, int s)
+        public IEnumerable<int> SumByCost(IEnumerable<Items> orders, int s)
         {
             var result = new List<int>();
             var x = orders.Select(r => r.Cost);
@@ -80,7 +71,7 @@ namespace HW1
             return result;
         }
 
-        public IEnumerable<int> SumByRevenue(IEnumerable<IProduct> orders, int s)
+        public IEnumerable<int> SumByRevenue(IEnumerable<Items> orders, int s)
         {
             var result = new List<int>();
             var x = orders.Select(r => r.Revenue);
