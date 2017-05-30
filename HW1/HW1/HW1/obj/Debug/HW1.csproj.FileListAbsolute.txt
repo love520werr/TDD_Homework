@@ -1,0 +1,11 @@
+C:\Users\Okay.Tw\Desktop\HW1\HW1\HW1\bin\Debug\HW1.dll
+C:\Users\Okay.Tw\Desktop\HW1\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\Okay.Tw\Desktop\HW1\HW1\HW1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Okay.Tw\Desktop\HW1\HW1\HW1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Okay.Tw\Desktop\HW1\HW1\HW1\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Okay.Tw\Desktop\HW1\HW1\HW1\obj\Debug\HW1.csprojResolveAssemblyReference.cache
+C:\Users\Okay.Tw\Desktop\HW1\HW1\HW1\obj\Debug\HW1.dll
+C:\Users\Okay.Tw\Desktop\HW1\HW1\HW1\obj\Debug\HW1.pdb
+C:\Users\Okay.Tw\Desktop\HW1\HW1\HW1\bin\Debug\NSubstitute.dll
+C:\Users\Okay.Tw\Desktop\HW1\HW1\HW1\bin\Debug\NSubstituteAutoMocker.dll
+C:\Users\Okay.Tw\Desktop\HW1\HW1\HW1\bin\Debug\NSubstitute.xml
