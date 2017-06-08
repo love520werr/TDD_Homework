@@ -1,0 +1,8 @@
+C:\Users\Okay.Tw\Desktop\HarryPoterBookStore\HarryPoterBookStore\HarryPoterBookStore\bin\Debug\HarryPoterBookStore.dll
+C:\Users\Okay.Tw\Desktop\HarryPoterBookStore\HarryPoterBookStore\HarryPoterBookStore\bin\Debug\HarryPoterBookStore.pdb
+C:\Users\Okay.Tw\Desktop\HarryPoterBookStore\HarryPoterBookStore\HarryPoterBookStore\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Okay.Tw\Desktop\HarryPoterBookStore\HarryPoterBookStore\HarryPoterBookStore\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Okay.Tw\Desktop\HarryPoterBookStore\HarryPoterBookStore\HarryPoterBookStore\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Okay.Tw\Desktop\HarryPoterBookStore\HarryPoterBookStore\HarryPoterBookStore\obj\Debug\HarryPoterBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Okay.Tw\Desktop\HarryPoterBookStore\HarryPoterBookStore\HarryPoterBookStore\obj\Debug\HarryPoterBookStore.dll
+C:\Users\Okay.Tw\Desktop\HarryPoterBookStore\HarryPoterBookStore\HarryPoterBookStore\obj\Debug\HarryPoterBookStore.pdb
